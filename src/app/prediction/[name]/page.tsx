@@ -26,6 +26,8 @@ export default async function Page({params}:Params){
                 <div>Personal info</div>
                 <div>Age: {age?.age}</div>
                 <div>Gender: {gender?.gender}</div>
+                <div>Nationality</div>
+
             </div>
         </div>
     )
